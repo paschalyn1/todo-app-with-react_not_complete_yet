@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Todo_inner {
+  display: flex;
+}
+
+body {
+  text-align: center;
+}
